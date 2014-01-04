@@ -1,3 +1,13 @@
+"Vehicle"=>"ተሸከርካሪዎች",
+"Small Size & Sport Cars"=>"አነስተኛ መኪኖች",
+"SUV & 4x4 Trucks"=>"የመስክ መኪኖች",
+"Taxi, MiniBus & Bus"=>"ታክሲ ፤ ሚኒባስ እና አውቶብስ",
+"Pick-Up Trucks"=>"የዕቃ መጫኛ",
+"Heavy Duty Trucks"=>"ከባድ የጭነት መኪናዎች",
+"Agricultural Trucks"=>"የዕርሻ መሳርያዎች",
+"Heavy Equipments"=>"ከባድ የኮንስትራክሽን ማሽኖች",
+"Bike & Motorcycles"=>"ሞተር ሳይክል",
+
 $buySellAmharic= array("Electronics"=>"ኤሌክትሮኒክስ",
 "Computers & Laptops"=>"ኮምፒውተር እና ላፐቶፕ"
 "Phones & Tablets"=>"ሞባይል እና ታብሌቶች"
@@ -8,15 +18,7 @@ $buySellAmharic= array("Electronics"=>"ኤሌክትሮኒክስ",
 "Data Storage Devices"=>"የዳታ ማስቀመጫ",
 "CD, DVD & Accessories"=>"የኮምፒውተር መለዋወጫ",
 
-"Vehicle"=>"ተሸከርካሪዎች",
-"Small Size & Sport Cars"=>"አነስተኛ መኪኖች",
-"SUV & 4x4 Trucks"=>"የመስክ መኪኖች",
-"Taxi, MiniBus & Bus"=>"ታክሲ ፤ ሚኒባስ እና አውቶብስ",
-"Pick-Up Trucks"=>"የዕቃ መጫኛ",
-"Heavy Duty Trucks"=>"ከባድ የጭነት መኪናዎች",
-"Agricultural Trucks"=>"የዕርሻ መሳርያዎች",
-"Heavy Equipments"=>"ከባድ የኮንስትራክሽን ማሽኖች",
-"Bike & Motorcycles"=>"ሞተር ሳይክል",
+
 
 
 "Services"=>"አገልግሎት",
