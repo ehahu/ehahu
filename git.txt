@@ -1,0 +1,88 @@
+$buySellAmharic= array("Electronics"=>"ኤሌክትሮኒክስ",
+"Computers & Laptops"=>"ኮምፒውተር እና ላፐቶፕ"
+"Phones & Tablets"=>"ሞባይል እና ታብሌቶች"
+"TV & Movie Players"=>"ቴሌቭዥኖች እና ቪዲዮ ማጫወቻዎች",
+"Cameras & Camcorders"=>"ፎቶ ካሜራዎች እና ቪዲዮ መቅረጫዎች",
+"iPod & MP3 players"=>"አይፖድ እና ማጫወቻዎች",
+"Software"=>"ሶፍትዌሮች",
+"Data Storage Devices"=>"የዳታ ማስቀመጫ",
+"CD, DVD & Accessories"=>"የኮምፒውተር መለዋወጫ",
+
+"Vehicle"=>"ተሸከርካሪዎች",
+"Small Size & Sport Cars"=>"አነስተኛ መኪኖች",
+"SUV & 4x4 Trucks"=>"የመስክ መኪኖች",
+"Taxi, MiniBus & Bus"=>"ታክሲ ፤ ሚኒባስ እና አውቶብስ",
+"Pick-Up Trucks"=>"የዕቃ መጫኛ",
+"Heavy Duty Trucks"=>"ከባድ የጭነት መኪናዎች",
+"Agricultural Trucks"=>"የዕርሻ መሳርያዎች",
+"Heavy Equipments"=>"ከባድ የኮንስትራክሽን ማሽኖች",
+"Bike & Motorcycles"=>"ሞተር ሳይክል",
+
+"Books"=>"መፅሐፍት",	
+"Finance & Business"=>"የሂሳብ ስራ እና የ ቢዝነስ",
+"Engineering "=>"ኢንጅነሪንግ",
+"Computer Science "=>"የ ኮምፒውተር",
+"History and Art"=>"ታሪክ እና ጥበብ",
+"Health Science"=>"የጤና",
+"Social Science"=>"የማህበረሰብ ሳይንስ",
+"Text Books"=>"የመማርያ መፃህፍት",
+"Kids Books"=>"የልጆች",
+
+"Services"=>"አገልግሎት",
+"Wedding & Events"=>"ሰርግ እና የተለያዩ ዝግጅቶች",
+"Child Care & Nanny"=>"የህፃናት መንከባከቢያ እና ተንከባካቢ",
+"Car Repair & Maintenance"=>"ጋራዥ",
+"Home Repair & Electrician"=>"የቤት ጥገና እና የኤሌክትሪክ",
+"Car Rentals & Drivers"=>"መኪና አከራይ እና ሹፌር",
+"Barber & Beauty Salons"=>"የውበት ሳሎን",
+"Fitness & Personal Trainer "=>"የስፖርት ማዕከል እና የግል አሰሪ",
+"Cleaning"=>"የፅዳት ባለሞያ እና ስራ",
+
+"Housings"=>"የ ቤት እና የመሳሰሉት ገበያ", 
+"House For Sale"=>"የሚሸጡ ቤቶች",
+"condo For Sale"=>"የሚሸጡ ኮንዶሚኒየሞች",
+"House For Rent"=>"የሚከራዩ ቤቶች",
+"Condo For Rent"=>"የሚከራዩ ኮንዶሚኒየሞች",
+"Room For Rent"=>"የሚከራይ ማረፊያ ቤት",
+"Land For Sale"=>"የሚሸይ መሬት",
+"Commercial For Sale"=>"የሽያጭ ማታወቂያዎች",
+"Commercial For Rent"=>"የኪራይ ማታወቂያዎች",
+
+"Clothing"=>"አልባሳት",
+"Traditional "=>"የባል",
+"Men's & Women's "=>"የወንድና የሴት",
+"Business Suits "=>"የስራ ልብሶች",
+"Kids Clothing & Toys"=>"የህፃናት እና አሻንጉሊቶች",
+"Men's & Women's Shoes"=>"የወንድ እና የሴት ጫማዎች",
+"Purse & Jewelries"=>"ቦርሳ እና ጌጣጌጦች",
+"Sport Clothing & Shoes"=>"የስፖርት አልባሳት እና ጫማዎች",
+"Glasses, Hats & Watches "=>"መነፅር ፤ ኮፍያ እና የዕጅ ሰዓቶች",
+
+"Furnitures"=>"የእንጨት እና የብረት ስራ ውጤቶች",
+"Chairs & Tables"=>"ወንበር እና ጠረቤዛዎች",
+"Sofas & Loveseats"=>"ሶፋ እና የመኪና ወንበሮች",
+"Beds & Mattress"=>"አልጋ እና ፍራሾች",
+"Buffets & Hutches"=>"ቡፌ እና መደርደሪያዎች",
+"Infant Bed (Crib)"=>"የልጆች አልጋ",
+"Dressers & Mirrors"=>"የመዋብያ ጠረቤዛ እና መስታወቶች",
+"Carpets & Rugs "=>"መጋረጃ እና የወለል ምንጣፎች",
+"Computer & Study Desk"=>"የኮምፒውተር እና የማጥኛ ጠረቤዛ",
+
+"Malls"=>"የገበያ ማዕከል" 
+"Adot multiplex"=>"አዶት መልቲፕሌክስ",
+"DH Geda Tower"=>"ዲኤች ገዳ ታወር",
+"Laphto Mall"=>"ላፍቶ ሞል",
+"Edna Mall"=>"ኤድና ሞል",
+"Friendship City Center"=>"ፍሬንድሺፕ ሲቲ ሴንተር",
+"Dembel City Center"=>"ደምበል ሲቲ ሴንተር",
+"Getu Commercial Center"=>"ጌቱ የገበያ ማዕከል",
+"Sheger Building"=>"ሸገር ህንፃ",
+);
+
+
+do the same thing for user account
+
+$userAccountAmharic=array("userName"=>"amharic translation",
+"Register"=>"amharic translation",
+"login"=>"amharic translation",
+);
